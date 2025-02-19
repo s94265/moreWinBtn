@@ -1,0 +1,16 @@
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\bin\Debug\net8.0-windows\moreWinBtn.exe
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\bin\Debug\net8.0-windows\moreWinBtn.deps.json
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\bin\Debug\net8.0-windows\moreWinBtn.runtimeconfig.json
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\bin\Debug\net8.0-windows\moreWinBtn.dll
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\bin\Debug\net8.0-windows\moreWinBtn.pdb
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\moreWinBtn.Form1.resources
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\moreWinBtn.csproj.GenerateResource.cache
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\moreWinBtn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\moreWinBtn.AssemblyInfoInputs.cache
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\moreWinBtn.AssemblyInfo.cs
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\moreWinBtn.csproj.CoreCompileInputs.cache
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\moreWinBtn.dll
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\refint\moreWinBtn.dll
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\moreWinBtn.pdb
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\moreWinBtn.genruntimeconfig.cache
+C:\Users\Tibame\Desktop\c#\1.09\projects\moreWinBtn\obj\Debug\net8.0-windows\ref\moreWinBtn.dll
