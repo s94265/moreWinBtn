@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,10 +28,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Tibame\\Desktop\\c#\\projects\\moreWinBtn\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAA4wFcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwFcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T11:29:57.77Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
@@ -43,10 +43,11 @@
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Users\\Tibame\\Desktop\\c#\\projects\\moreWinBtn\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Tibame\\Desktop\\c#\\1.09\\projects\\moreWinBtn\\Form1.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "..\\..\\1.09\\projects\\moreWinBtn\\Form1.cs [\u8A2D\u8A08]",
+              "ToolTip": "C:\\Users\\Tibame\\Desktop\\c#\\projects\\moreWinBtn\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:22:12.626Z"
+              "WhenOpened": "2025-02-17T11:22:12.626Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             }
           ]
         }

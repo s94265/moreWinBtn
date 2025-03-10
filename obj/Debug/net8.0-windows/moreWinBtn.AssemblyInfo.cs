@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("moreWinBtn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b662b14f32e598c6a9bb659154962085eeece898")]
 [assembly: System.Reflection.AssemblyProductAttribute("moreWinBtn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("moreWinBtn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

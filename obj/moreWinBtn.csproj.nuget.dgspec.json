@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tibame\\Desktop\\c#\\projects\\moreWinBtn\\moreWinBtn.csproj": {}
+    "C:\\Users\\Tibame\\Desktop\\Git原始碼版本管理-20250219T011346Z-001\\upLoadtoGitHub\\moreWinBtn\\moreWinBtn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tibame\\Desktop\\c#\\projects\\moreWinBtn\\moreWinBtn.csproj": {
+    "C:\\Users\\Tibame\\Desktop\\Git原始碼版本管理-20250219T011346Z-001\\upLoadtoGitHub\\moreWinBtn\\moreWinBtn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tibame\\Desktop\\c#\\projects\\moreWinBtn\\moreWinBtn.csproj",
+        "projectUniqueName": "C:\\Users\\Tibame\\Desktop\\Git原始碼版本管理-20250219T011346Z-001\\upLoadtoGitHub\\moreWinBtn\\moreWinBtn.csproj",
         "projectName": "moreWinBtn",
-        "projectPath": "C:\\Users\\Tibame\\Desktop\\c#\\projects\\moreWinBtn\\moreWinBtn.csproj",
+        "projectPath": "C:\\Users\\Tibame\\Desktop\\Git原始碼版本管理-20250219T011346Z-001\\upLoadtoGitHub\\moreWinBtn\\moreWinBtn.csproj",
         "packagesPath": "C:\\Users\\Tibame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tibame\\Desktop\\c#\\projects\\moreWinBtn\\obj\\",
+        "outputPath": "C:\\Users\\Tibame\\Desktop\\Git原始碼版本管理-20250219T011346Z-001\\upLoadtoGitHub\\moreWinBtn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
